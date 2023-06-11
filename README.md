@@ -1,6 +1,12 @@
 # Smart Fishing Rod
 This is the code for a Smart Fishing Rod that is used to calculate the weight using an Arduino Mega.
 
+### ECE 196 Spring 2023
+### Team:
+- Ba Mai
+- Sashank Vempati
+- Jiawen Yu
+
 ## List of sensors and components used:
 
 ### Load Cell sensor
